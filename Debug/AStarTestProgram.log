@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\syahm\source\repos\AStarTestProgram\Source.cpp(111,72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\syahm\source\repos\AStarTestProgram\Source.cpp(111,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\syahm\source\repos\AStarTestProgram\Source.cpp(124,18): warning C4018: '<': signed/unsigned mismatch
+  AStarTestProgram.vcxproj -> C:\Users\syahm\source\repos\AStarTestProgram\Debug\AStarTestProgram.exe
